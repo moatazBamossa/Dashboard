@@ -8,9 +8,8 @@
 
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"],
+      "@assets/*": ["src/assets/*"]
     },
 
     /* Bundler mode */
